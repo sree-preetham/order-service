@@ -1,4 +1,4 @@
-package com.example.order_service.entity;
+package com.sreepreetham.order_service.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

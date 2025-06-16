@@ -1,11 +1,11 @@
-package com.example.order_service.service;
+package com.sreepreetham.order_service.service;
 
-import com.example.order_service.dto.OrderDto;
-import com.example.order_service.dto.OrderLineItemsDto;
-import com.example.order_service.entity.Order;
-import com.example.order_service.entity.OrderLineItems;
-import com.example.order_service.form.OrderRequestForm;
-import com.example.order_service.repository.OrderRepository;
+import com.sreepreetham.order_service.dto.OrderDto;
+import com.sreepreetham.order_service.dto.OrderLineItemsDto;
+import com.sreepreetham.order_service.entity.Order;
+import com.sreepreetham.order_service.entity.OrderLineItems;
+import com.sreepreetham.order_service.form.OrderRequestForm;
+import com.sreepreetham.order_service.repository.OrderRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

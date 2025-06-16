@@ -1,6 +1,6 @@
-package com.example.order_service.form;
+package com.sreepreetham.order_service.form;
 
-import com.example.order_service.dto.OrderLineItemsDto;
+import com.sreepreetham.order_service.dto.OrderLineItemsDto;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

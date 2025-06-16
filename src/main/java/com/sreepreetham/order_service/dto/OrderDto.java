@@ -1,6 +1,6 @@
-package com.example.order_service.dto;
+package com.sreepreetham.order_service.dto;
 
-import com.example.order_service.entity.Order;
+import com.sreepreetham.order_service.entity.Order;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
